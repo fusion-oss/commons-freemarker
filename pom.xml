@@ -11,7 +11,7 @@
     </parent>
     <groupId>com.scoperetail.commons</groupId>
     <artifactId>commons-freemarker</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1-SNAPSHOT</version>
     <name>${project.artifactId}</name>
     <description>Freemarker utility library</description>
     <url>https://github.com/fusion-oss/${project.artifactId}</url>
