@@ -100,8 +100,7 @@ public class FreemarkerUtils {
   }
 
   /**
-   * Parse the XML using Apache Freemarker builtin api for XML processing. Refer to <a *
-   * href="https://freemarker.apache.org/docs/xgui.html">XML Processing Guide</a> for details
+   * Parse the XML using Apache Freemarker builtin api for XML processing.
    *
    * @param xml
    * @param templateFileName
@@ -120,8 +119,7 @@ public class FreemarkerUtils {
   }
 
   /**
-   * Parse the XML using Apache Freemarker builtin api for XML processing. Refer to <a
-   * href="https://freemarker.apache.org/docs/xgui.html">XML Processing Guide</a> for details
+   * Parse the XML using Apache Freemarker builtin api for XML processing.
    *
    * @param xml
    * @param templateFileName
