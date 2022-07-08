@@ -1,0 +1,5 @@
+<PurchaseOrder PurchaseOrderNumber="1">
+    <CustomerName>Jon snow</CustomerName>
+    <CustomerAddress>Palo Alto</CustomerAddress>
+    <DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>
+</PurchaseOrder>
